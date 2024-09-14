@@ -1,0 +1,28 @@
+img{
+
+
+    
+width:48px;
+
+height:48px;
+
+}
+
+body{
+    background-color: rgb(250, 248, 248);
+    border: 10px solid rgb(61, 55, 55);
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 100px;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    
+    
+
+}
+section{
+    background-color: rgb(26, 27, 27);
+    color: rgb(244, 244, 247);
+}
